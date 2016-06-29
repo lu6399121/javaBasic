@@ -56,4 +56,9 @@ public class ByteStreamTest {
         PipedInputStream pipedInputStream = new PipedInputStream();
     }
 
+    private void objectStreamTest() {
+
+
+    }
+
 }
